@@ -1,8 +1,10 @@
 # FlappyPS
 
+*If it's stupid, and it works, it's still stupid.* -???
+
 Flappy Bird proof of concept in Powershell and SFML.NET.
 
-Must be ran in x86 Powershell mode.
+Must be executed in x86 Powershell mode.
 
 Sprites by [Kenney Vleugels](http://kenney.nl)
 
